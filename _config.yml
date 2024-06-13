@@ -16,7 +16,7 @@ timezone:
 
 title: vu1n # the main title
 
-tagline: An Information security blog where I post my findings and some CTFs challages # it will display as the sub-title
+tagline: An Information security blog where I post my findings and some CTFs challanges # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog where I post related to CTF challanges & vulnerabilities.
